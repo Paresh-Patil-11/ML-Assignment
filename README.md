@@ -9,7 +9,7 @@ Run the script using Python:
 
 2. Prime Factorization
 To run the prime factorization function:
-
+ 
 Open a terminal and navigate to the directory where the Assignment2.py file is located.
 Run the script using Python:
 
